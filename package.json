@@ -1,0 +1,26 @@
+{
+  "name": "weight_contoller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "dev": "nodemon ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Verchasve/weight_contoller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Verchasve/weight_contoller/issues"
+  },
+  "homepage": "https://github.com/Verchasve/weight_contoller#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "serialport": "^10.4.0"
+  }
+}
